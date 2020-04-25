@@ -25,6 +25,8 @@
 - [General](#general)
   - [What is HTTP](https://www.w3schools.com/whatis/whatis_http.asp)
   - [What is CLI](https://www.w3schools.com/whatis/whatis_cli.asp)
+- [HTML](#html)
+  - [What is DOCTYPE in HTML do](https://github.com/AbdallahHemdan/TIL/blob/master/HTML/What%20is%20DOCTYPE%20in%20HTML%20do.md)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -39,6 +41,8 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 - [What is HTTP](https://www.w3schools.com/whatis/whatis_http.asp)
 - [What is CLI](https://www.w3schools.com/whatis/whatis_cli.asp)
 
+## HTML
+- [What is DOCTYPE in HTML do](https://github.com/AbdallahHemdan/TIL/blob/master/HTML/What%20is%20DOCTYPE%20in%20HTML%20do.md)
 
 ## Contributing
 
