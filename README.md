@@ -22,8 +22,9 @@
 
 - [Table of Contents](#table-of-contents)
 - [About The Project](#about-the-project)
-- [Internet](#internet)
+- [General](#general)
   - [What is HTTP](https://www.w3schools.com/whatis/whatis_http.asp)
+  - [What is CLI](https://www.w3schools.com/whatis/whatis_cli.asp)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -34,8 +35,9 @@
 
 TIL is a collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. These are things that don't really warrant a full blog post. These are things I've picked up by Learning In Public™ and pairing with smart people
 
-## Internet
+## General
 - [What is HTTP](https://www.w3schools.com/whatis/whatis_http.asp)
+- [What is CLI](https://www.w3schools.com/whatis/whatis_cli.asp)
 
 
 ## Contributing
