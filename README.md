@@ -23,7 +23,6 @@
 - [Table of Contents](#table-of-contents)
 - [About The Project](#about-the-project)
 - [Internet](#internet)
-  - [what is HTTP](#what-is-http)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -35,7 +34,8 @@
 TIL is a collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. These are things that don't really warrant a full blog post. These are things I've picked up by Learning In Public™ and pairing with smart people
 
 ## Internet
-- [What is HTTP](https://github.com/AbdallahHemdan/TIL/blob/master/Internet/What%20is%20HTTP.md)
+- [What is HTTP](https://www.w3schools.com/whatis/whatis_http.asp)
+
 
 ## Contributing
 
