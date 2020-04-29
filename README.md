@@ -29,6 +29,8 @@
   - [What does DOCTYPE in HTML do](https://github.com/AbdallahHemdan/TIL/blob/master/HTML/What%20does%20DOCTYPE%20in%20HTML%20do.md)
 - [JS](#js)
   - [Check if something is an Array or not](https://github.com/AbdallahHemdan/TIL/blob/master/JS/Check%20if%20something%20is%20an%20Array%20or%20not.md)
+- [Chrome](#chrome)
+  - [Access a value logged to the console](https://github.com/AbdallahHemdan/TIL/blob/master/Chrome/Access%20a%20value%20logged%20to%20the%20console.md)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -48,6 +50,10 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 
 ## JS
 - [Check if something is an Array or not](https://github.com/AbdallahHemdan/TIL/blob/master/JS/Check%20if%20something%20is%20an%20Array%20or%20not.md)
+
+## Chrome
+- [Access a value logged to the console](https://github.com/AbdallahHemdan/TIL/blob/master/Chrome/Access%20a%20value%20logged%20to%20the%20console.md)
+
 ## Contributing
 
 > Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
