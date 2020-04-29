@@ -27,6 +27,8 @@
   - [What is CLI](https://www.w3schools.com/whatis/whatis_cli.asp)
 - [HTML](#html)
   - [What does DOCTYPE in HTML do](https://github.com/AbdallahHemdan/TIL/blob/master/HTML/What%20does%20DOCTYPE%20in%20HTML%20do.md)
+- [JS](#js)
+  - [Check if something is an Array or not](https://github.com/AbdallahHemdan/TIL/blob/master/JS/Check%20if%20something%20is%20an%20Array%20or%20not.md)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -44,6 +46,8 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 ## HTML
 - [What does DOCTYPE in HTML do](https://github.com/AbdallahHemdan/TIL/blob/master/HTML/What%20does%20DOCTYPE%20in%20HTML%20do.md)
 
+## JS
+- [Check if something is an Array or not](https://github.com/AbdallahHemdan/TIL/blob/master/JS/Check%20if%20something%20is%20an%20Array%20or%20not.md)
 ## Contributing
 
 > Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
