@@ -14,4 +14,5 @@ calling functions.
 > You can even do this with multiple logged values, each subsequent one will
 be assigned incrementing variable names: `temp2`, `temp3`, etc.
 
-[source-stackoverflow](https://stackoverflow.com/questions/15895579/access-last-logged-value-in-chrome-console)
+[stackoverflow](https://stackoverflow.com/questions/15895579/access-last-logged-value-in-chrome-console)
+[Video](https://www.youtube.com/watch?v=qALFiTlVWdg)
