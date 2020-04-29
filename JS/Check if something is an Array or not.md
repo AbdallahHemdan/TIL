@@ -18,6 +18,8 @@ which can be used to check if something is an array.
 // => true
 ```
 
+![image](https://user-images.githubusercontent.com/40190772/80606520-b8b4a380-8a34-11ea-871a-4ec2ae906ca6.png)
+
 The MDN docs provide an [example
 polyfill](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/isArray#Polyfill)
 if it is not natively available.
