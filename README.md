@@ -29,6 +29,7 @@
   - [What does DOCTYPE in HTML do](https://github.com/AbdallahHemdan/TIL/blob/master/HTML/What%20does%20DOCTYPE%20in%20HTML%20do.md)
 - [JS](#js)
   - [Check if something is an Array or not](https://github.com/AbdallahHemdan/TIL/blob/master/JS/Check%20if%20something%20is%20an%20Array%20or%20not.md)
+  - [Create An Object With No Properties](https://github.com/AbdallahHemdan/TIL/blob/master/JS/Create%20An%20Object%20With%20No%20Properties.md)
 - [Chrome](#chrome)
   - [Access a value logged to the console](https://github.com/AbdallahHemdan/TIL/blob/master/Chrome/Access%20a%20value%20logged%20to%20the%20console.md)
 - [React](#react)
@@ -52,6 +53,7 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 
 ## JS
 - [Check if something is an Array or not](https://github.com/AbdallahHemdan/TIL/blob/master/JS/Check%20if%20something%20is%20an%20Array%20or%20not.md)
+- [Create An Object With No Properties](https://github.com/AbdallahHemdan/TIL/blob/master/JS/Create%20An%20Object%20With%20No%20Properties.md)
 
 ## Chrome
 - [Access a value logged to the console](https://github.com/AbdallahHemdan/TIL/blob/master/Chrome/Access%20a%20value%20logged%20to%20the%20console.md)
