@@ -45,4 +45,4 @@ It contains information about the component itself and because of the tree
 structure of this data, you could potentially expand the `props` -->
 `children` sections several times for certain components.
 
-See a [live example here](https://codesandbox.io/s/l41pj382x7).
+See a [live example here](https://github.com/AbdallahHemdan/TIL/blob/master/React/A%20Component%20is%20just%20a%20bag%20of%20data.js).
