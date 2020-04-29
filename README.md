@@ -31,6 +31,8 @@
   - [Check if something is an Array or not](https://github.com/AbdallahHemdan/TIL/blob/master/JS/Check%20if%20something%20is%20an%20Array%20or%20not.md)
 - [Chrome](#chrome)
   - [Access a value logged to the console](https://github.com/AbdallahHemdan/TIL/blob/master/Chrome/Access%20a%20value%20logged%20to%20the%20console.md)
+- [React](#react)
+  - [A Component is just a bag of data](https://github.com/AbdallahHemdan/TIL/blob/master/React/A%20Component%20is%20just%20a%20bag%20of%20data.md)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -53,6 +55,9 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 
 ## Chrome
 - [Access a value logged to the console](https://github.com/AbdallahHemdan/TIL/blob/master/Chrome/Access%20a%20value%20logged%20to%20the%20console.md)
+
+## React 
+- [A Component is just a bag of data](https://github.com/AbdallahHemdan/TIL/blob/master/React/A%20Component%20is%20just%20a%20bag%20of%20data.md)
 
 ## Contributing
 
