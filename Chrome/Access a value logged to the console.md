@@ -15,4 +15,5 @@ calling functions.
 be assigned incrementing variable names: `temp2`, `temp3`, etc.
 
 [stackoverflow](https://stackoverflow.com/questions/15895579/access-last-logged-value-in-chrome-console)
+
 [Video](https://www.youtube.com/watch?v=qALFiTlVWdg)
