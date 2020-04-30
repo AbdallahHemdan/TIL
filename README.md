@@ -30,6 +30,7 @@
 - [JS](#js)
   - [Check if something is an Array or not](https://github.com/AbdallahHemdan/TIL/blob/master/JS/Check%20if%20something%20is%20an%20Array%20or%20not.md)
   - [Create An Object With No Properties](https://github.com/AbdallahHemdan/TIL/blob/master/JS/Create%20An%20Object%20With%20No%20Properties.md)
+  - [Create an array conataining elements from 1 to n](https://github.com/AbdallahHemdan/TIL/blob/master/JS/Creating%20an%20array%20containing%20elements%20from%201%20to%20n.md)
 - [Chrome](#chrome)
   - [Access a value logged to the console](https://github.com/AbdallahHemdan/TIL/blob/master/Chrome/Access%20a%20value%20logged%20to%20the%20console.md)
 - [React](#react)
@@ -54,6 +55,7 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 ## JS
 - [Check if something is an Array or not](https://github.com/AbdallahHemdan/TIL/blob/master/JS/Check%20if%20something%20is%20an%20Array%20or%20not.md)
 - [Create An Object With No Properties](https://github.com/AbdallahHemdan/TIL/blob/master/JS/Create%20An%20Object%20With%20No%20Properties.md)
+- [Create an array conataining elements from 1 to n](https://github.com/AbdallahHemdan/TIL/blob/master/JS/Creating%20an%20array%20containing%20elements%20from%201%20to%20n.md)
 
 ## Chrome
 - [Access a value logged to the console](https://github.com/AbdallahHemdan/TIL/blob/master/Chrome/Access%20a%20value%20logged%20to%20the%20console.md)
