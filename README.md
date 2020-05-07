@@ -35,6 +35,8 @@
   - [Access a value logged to the console](https://github.com/AbdallahHemdan/TIL/blob/master/Chrome/Access%20a%20value%20logged%20to%20the%20console.md)
 - [React](#react)
   - [A Component is just a bag of data](https://github.com/AbdallahHemdan/TIL/blob/master/React/A%20Component%20is%20just%20a%20bag%20of%20data.md)
+ - [Windows](#windows)
+   - [How to use multiple desktops](https://github.com/AbdallahHemdan/TIL/blob/master/Windows/How%20to%20use%20multiple%20desktops.md) 
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -62,6 +64,9 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 
 ## React 
 - [A Component is just a bag of data](https://github.com/AbdallahHemdan/TIL/blob/master/React/A%20Component%20is%20just%20a%20bag%20of%20data.md)
+
+## Windows
+- [How to use multiple desktops](https://github.com/AbdallahHemdan/TIL/blob/master/Windows/How%20to%20use%20multiple%20desktops.md) 
 
 ## Contributing
 
