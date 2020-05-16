@@ -39,6 +39,8 @@
   - [How to use multiple desktops](https://github.com/AbdallahHemdan/TIL/blob/master/Windows/How%20to%20use%20multiple%20desktops.md) 
 - [Internet](#internet)
   - [The Request-Response life cycle](https://github.com/AbdallahHemdan/TIL/blob/master/Internet/Request-Response%20life%20cycle.md)
+
+- [Quotes](#quotes) 
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -72,6 +74,10 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 
 ## Internet
 - [The Request-Response life cycle](https://github.com/AbdallahHemdan/TIL/blob/master/Internet/Request-Response%20life%20cycle.md)
+
+## Quotes
+
+> Premature optimization is the root of all evil **_Donald knuth_**
 
 
 ## TODO
