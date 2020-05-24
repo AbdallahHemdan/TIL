@@ -39,7 +39,8 @@
   - [How to use multiple desktops](https://github.com/AbdallahHemdan/TIL/blob/master/Windows/How%20to%20use%20multiple%20desktops.md) 
 - [Internet](#internet)
   - [The Request-Response life cycle](https://github.com/AbdallahHemdan/TIL/blob/master/Internet/Request-Response%20life%20cycle.md)
-
+- [CSS](#css)
+  - [Specificity]()
 - [Quotes](#quotes) 
 - [Contributing](#contributing)
 - [License](#license)
@@ -79,11 +80,10 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 
 > Premature optimization is the root of all evil **_Donald knuth_**
 
-
 ## TODO
 - [Sessions vs Cookies]()
 - [HTTP response status codes]()
-
+- [Specificity]()
 ## Contributing
 
 > Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
