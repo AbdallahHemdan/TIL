@@ -90,6 +90,7 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 - [HTTP response status codes]()
 - [Specificity]()
 - [argc and argv]()
+- [how to enter argc and argv in Visual Studio]()
 ## Contributing
 
 > Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
