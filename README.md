@@ -41,6 +41,8 @@
   - [The Request-Response life cycle](https://github.com/AbdallahHemdan/TIL/blob/master/Internet/Request-Response%20life%20cycle.md)
 - [CSS](#css)
   - [Specificity]()
+- [GIT](#git)
+  - [Go to a particular revision](https://github.com/AbdallahHemdan/TIL/blob/master/GIT/Go%20to%20particular%20revision.md)
 - [Quotes](#quotes) 
 - [Contributing](#contributing)
 - [License](#license)
@@ -69,6 +71,9 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 
 ## React 
 - [A Component is just a bag of data](https://github.com/AbdallahHemdan/TIL/blob/master/React/A%20Component%20is%20just%20a%20bag%20of%20data.md)
+
+## Git
+- [Go to a particular revision](https://github.com/AbdallahHemdan/TIL/blob/master/GIT/Go%20to%20particular%20revision.md)
 
 ## Windows
 - [How to use multiple desktops](https://github.com/AbdallahHemdan/TIL/blob/master/Windows/How%20to%20use%20multiple%20desktops.md) 
