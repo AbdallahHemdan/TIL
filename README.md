@@ -89,6 +89,7 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 - [Sessions vs Cookies]()
 - [HTTP response status codes]()
 - [Specificity]()
+- [argc and argv]()
 ## Contributing
 
 > Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
