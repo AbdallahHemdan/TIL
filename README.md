@@ -34,7 +34,14 @@
 - [Chrome](#chrome)
   - [Access a value logged to the console](https://github.com/AbdallahHemdan/TIL/blob/master/Chrome/Access%20a%20value%20logged%20to%20the%20console.md)
 - [React](#react)
+  - [What is React?](https://github.com/AbdallahHemdan/TIL/blob/master/React/What%20is%20React%3F.md)
+  - [What are the major features of React?](https://github.com/AbdallahHemdan/TIL/blob/master/React/What%20are%20the%20major%20features%20of%20React%3F.md)
+  - [What is JSX?](https://github.com/AbdallahHemdan/TIL/blob/master/React/What%20is%20JSX%3F.md)
+  - [What is the difference between Element and Component?](https://github.com/AbdallahHemdan/TIL/blob/master/React/What%20is%20the%20difference%20between%20Element%20and%20Component%3F.md)
+  - [How to create components in React?](https://github.com/AbdallahHemdan/TIL/blob/master/React/How%20to%20create%20components%20in%20React%3F.md)
+  - [When to use a Class Component over a Function Component?](https://github.com/AbdallahHemdan/TIL/blob/master/React/When%20to%20use%20a%20Class%20Component%20over%20a%20Function%20Component%3F.md)
   - [A Component is just a bag of data](https://github.com/AbdallahHemdan/TIL/blob/master/React/A%20Component%20is%20just%20a%20bag%20of%20data.md)
+
 - [Windows](#windows)
   - [How to use multiple desktops](https://github.com/AbdallahHemdan/TIL/blob/master/Windows/How%20to%20use%20multiple%20desktops.md) 
 - [Internet](#internet)
@@ -70,6 +77,12 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 - [Access a value logged to the console](https://github.com/AbdallahHemdan/TIL/blob/master/Chrome/Access%20a%20value%20logged%20to%20the%20console.md)
 
 ## React 
+- [What is React?](https://github.com/AbdallahHemdan/TIL/blob/master/React/What%20is%20React%3F.md)
+- [What are the major features of React?](https://github.com/AbdallahHemdan/TIL/blob/master/React/What%20are%20the%20major%20features%20of%20React%3F.md)
+- [What is JSX?](https://github.com/AbdallahHemdan/TIL/blob/master/React/What%20is%20JSX%3F.md)
+- [What is the difference between Element and Component?](https://github.com/AbdallahHemdan/TIL/blob/master/React/What%20is%20the%20difference%20between%20Element%20and%20Component%3F.md)
+- [How to create components in React?](https://github.com/AbdallahHemdan/TIL/blob/master/React/How%20to%20create%20components%20in%20React%3F.md)
+- [When to use a Class Component over a Function Component?](https://github.com/AbdallahHemdan/TIL/blob/master/React/When%20to%20use%20a%20Class%20Component%20over%20a%20Function%20Component%3F.md)
 - [A Component is just a bag of data](https://github.com/AbdallahHemdan/TIL/blob/master/React/A%20Component%20is%20just%20a%20bag%20of%20data.md)
 
 ## Git
