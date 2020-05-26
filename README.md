@@ -87,6 +87,12 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 
 > “if it hurts, do it more often”. **_Martin Fowler_**
 
+<div align="center">
+  
+  <img src="https://martinfowler.com/bliki/images/frequency-reduces-difficulty/graph.png" />
+  
+</div>
+
 ## TODO
 - [Sessions vs Cookies]()
 - [HTTP response status codes]()
