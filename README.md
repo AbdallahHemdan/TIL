@@ -83,7 +83,9 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 
 ## Quotes
 
-> Premature optimization is the root of all evil **_Donald knuth_**
+> “Premature optimization is the root of all evil” **_Donald knuth_**
+
+> “if it hurts, do it more often”. **_Martin Fowler_**
 
 ## TODO
 - [Sessions vs Cookies]()
