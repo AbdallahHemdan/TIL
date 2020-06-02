@@ -48,6 +48,13 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 
 ## HTML
 - [What does DOCTYPE in HTML do](https://github.com/AbdallahHemdan/TIL/blob/master/HTML/What%20does%20DOCTYPE%20in%20HTML%20do.md)
+- [How do you serve a page with content in multiple languages?](https://github.com/AbdallahHemdan/TIL/blob/master/HTML/2.%20How%20do%20you%20serve%20a%20page%20with%20content%20in%20multiple%20languages%3F.md)
+- [What kind of things must you be wary of when design or developing for multilingual sites?](https://github.com/AbdallahHemdan/TIL/blob/master/HTML/3.%20What%20kind%20of%20things%20must%20you%20be%20wary%20of%20when%20design%20or%20developing%20for%20multilingual%20sites%3F.md)
+- [What are data- attributes good for?](https://github.com/AbdallahHemdan/TIL/blob/master/HTML/4.%20What%20are%20data-%20attributes%20good%20for%3F.md)
+- [Consider HTML5 as an open web platform. What are the building blocks of HTML5?](https://github.com/AbdallahHemdan/TIL/blob/master/HTML/5.%20Consider%20HTML5%20as%20an%20open%20web%20platform.%20What%20are%20the%20building%20blocks%20of%20HTML5%3F.md)
+- [Describe the difference between a cookie, sessionStorage and localStorage.](https://github.com/AbdallahHemdan/TIL/blob/master/HTML/6.%20Describe%20the%20difference%20between%20a%20cookie%2C%20sessionStorage%20and%20localStorage.md)
+- [Why is it generally a good idea to position CSS `<link>`s between `<head></head>` and JS `<script>`s just before `</body>`? Do you know any exceptions?](https://github.com/AbdallahHemdan/TIL/blob/master/HTML/7.%20Why%20is%20it%20generally%20a%20good%20idea%20to%20position%20CSS%20links%20between%20head%20and%20script%20tags.md)
+- [Have you used different HTML templating languages before?](https://github.com/AbdallahHemdan/TIL/blob/master/HTML/8.%20Have%20you%20used%20different%20HTML%20templating%20languages%20before%3F.md)
 
 ## JS
 - [Check if something is an Array or not](https://github.com/AbdallahHemdan/TIL/blob/master/JS/Check%20if%20something%20is%20an%20Array%20or%20not.md)
