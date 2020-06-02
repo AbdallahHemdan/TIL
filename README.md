@@ -47,7 +47,7 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 - [What is CLI](https://www.w3schools.com/whatis/whatis_cli.asp)
 
 ## HTML
-- [What does DOCTYPE in HTML do](https://github.com/AbdallahHemdan/TIL/blob/master/HTML/What%20does%20DOCTYPE%20in%20HTML%20do.md)
+- [What does DOCTYPE in HTML do](https://github.com/AbdallahHemdan/TIL/blob/master/HTML/1.%20What%20does%20DOCTYPE%20in%20HTML%20do.md)
 - [How do you serve a page with content in multiple languages?](https://github.com/AbdallahHemdan/TIL/blob/master/HTML/2.%20How%20do%20you%20serve%20a%20page%20with%20content%20in%20multiple%20languages%3F.md)
 - [What kind of things must you be wary of when design or developing for multilingual sites?](https://github.com/AbdallahHemdan/TIL/blob/master/HTML/3.%20What%20kind%20of%20things%20must%20you%20be%20wary%20of%20when%20design%20or%20developing%20for%20multilingual%20sites%3F.md)
 - [What are data- attributes good for?](https://github.com/AbdallahHemdan/TIL/blob/master/HTML/4.%20What%20are%20data-%20attributes%20good%20for%3F.md)
