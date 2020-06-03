@@ -110,6 +110,7 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 - [HTTP response status codes]()
 - [argc and argv]()
 - [how to enter argc and argv in Visual Studio]()
+- [Prototypal pattern](https://frontendmasters.com/courses/getting-started-javascript-v2/prototypes/)
 ## Contributing
 
 > Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
