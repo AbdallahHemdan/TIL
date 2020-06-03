@@ -104,6 +104,8 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
   
 </div>
 
+> “In JavaScript, variables don't have types, values do.”
+
 ## TODO
 - [HTTP response status codes]()
 - [argc and argv]()
