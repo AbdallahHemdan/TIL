@@ -61,6 +61,16 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 - [Create An Object With No Properties](https://github.com/AbdallahHemdan/TIL/blob/master/JS/Create%20An%20Object%20With%20No%20Properties.md)
 - [Create an array conataining elements from 1 to n](https://github.com/AbdallahHemdan/TIL/blob/master/JS/Creating%20an%20array%20containing%20elements%20from%201%20to%20n.md)
 
+## CSS
+- [What is CSS selector specificity and how does it work?](https://github.com/AbdallahHemdan/TIL/blob/master/CSS/1.%20What%20is%20CSS%20selector%20specificity%20and%20how%20does%20it%20work%3F.md)
+- [What’s the difference between “resetting” and “normalizing” CSS? Which would you choose, and why?](https://github.com/AbdallahHemdan/TIL/blob/master/CSS/2.%20What's%20the%20difference%20between%20%22resetting%22%20and%20%22normalizing%22%20CSS%3F%20Which%20would%20you%20choose%2C%20and%20why%3F.md)
+- [Describe Floats and how they work.](https://github.com/AbdallahHemdan/TIL/blob/master/CSS/3.%20Describe%20Floats%20and%20how%20they%20work.md)
+- [Describe z-index and how stacking context is formed.](https://github.com/AbdallahHemdan/TIL/blob/master/CSS/4.%20Describe%20z-index%20and%20how%20stacking%20context%20is%20formed.md)
+- [What does * { box-sizing: border-box; } do? What are its advantages?](https://github.com/AbdallahHemdan/TIL/blob/master/CSS/5.%20What%20does%20*%20%7B%20box-sizing:%20border-box%3B%20%7D%20do%3F%20What%20are%20its%20advantages%3F.md)
+- [What’s the difference between inline and inline-block?](https://github.com/AbdallahHemdan/TIL/blob/master/CSS/6.%20What's%20the%20difference%20between%20inline%20and%20inline-block%3F.md)
+- [Can you give an example of an @media property other than screen?](https://github.com/AbdallahHemdan/TIL/blob/master/CSS/7.%20%20Can%20you%20give%20an%20example%20of%20an%20%40media%20property%20other%20than%20screen%3F.md)
+- [Describe pseudo-elements and discuss what they are used for.](https://github.com/AbdallahHemdan/TIL/blob/master/CSS/8.%20Describe%20pseudo-elements%20and%20discuss%20what%20they%20are%20used%20for.md)
+
 ## Chrome
 - [Access a value logged to the console](https://github.com/AbdallahHemdan/TIL/blob/master/Chrome/Access%20a%20value%20logged%20to%20the%20console.md)
 
