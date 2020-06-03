@@ -95,9 +95,7 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 </div>
 
 ## TODO
-- [Sessions vs Cookies]()
 - [HTTP response status codes]()
-- [Specificity]()
 - [argc and argv]()
 - [how to enter argc and argv in Visual Studio]()
 ## Contributing
