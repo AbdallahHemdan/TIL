@@ -113,6 +113,7 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 - [argc and argv]()
 - [how to enter argc and argv in Visual Studio]()
 - [Prototypal pattern](https://frontendmasters.com/courses/getting-started-javascript-v2/prototypes/)
+- [Describe the difference between <script>, <script async> and <script defer>.]()
 ## Contributing
 
 > Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
