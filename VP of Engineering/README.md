@@ -60,7 +60,18 @@ Nice example:
 [Link to article](https://tylermcginnis.com/imperative-vs-declarative-programming/#:~:text=%E2%80%9CYou%20know%2C%20imperative%20programming%20is,you%20do%2C%20or%20something.%E2%80%9D&text=%E2%80%9CImperative%20programming%20is%20like%20how,more%20like%20what%20you%20do.%E2%80%9D)
 
 
+### What is REST?
+> Restful api is a convention for building https services 
 
+> Client-Server Architecture
+
+> HTTP protocol principles: 
+  - Create => post
+  - Read => get
+  - Update => put
+  - Delete => delete
+
+> In https, data exchange on secure channel
 
 
 
