@@ -93,4 +93,13 @@ PATCH /users/123
 > PUT method need more bandwidth or handle full resources instead on partial. So PATCH was introduced to reduce the bandwidth.
 
 
+### Tell me about a problem that you solved in a unique way or an unusual way. What was the outcome? Were you satisfied with it?
+> ...
+
+### Describe a project or situation that demonstrates your analytical abilities. What was your role and the result?
+> ...
+
+### What is the most difficult decision you have ever had to make? How did you arrive at it and what was the result?
+> ...
+
 
