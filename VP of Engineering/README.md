@@ -74,6 +74,23 @@ Nice example:
 > In https, data exchange on secure channel
 
 
+### What is difference between PUT and PATCH request ?
+> PUT => If user can update all or just a portion of the record, use PUT (user controls what gets updated)
+
+```
+PUT /users/123/email
+new.email@example.org
+```
+
+> PATCH => If user can only update a partial record, say just an email address (application controls what can be updated), use PATCH.
+
+```
+PATCH /users/123
+[description of changes]
+```
+
+#### Why Patch ?
+> PUT method need more bandwidth or handle full resources instead on partial. So PATCH was introduced to reduce the bandwidth.
 
 
 
