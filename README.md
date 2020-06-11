@@ -61,6 +61,12 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 - [Check if something is an Array or not](https://github.com/AbdallahHemdan/TIL/blob/master/JS/Check%20if%20something%20is%20an%20Array%20or%20not.md)
 - [Create An Object With No Properties](https://github.com/AbdallahHemdan/TIL/blob/master/JS/Create%20An%20Object%20With%20No%20Properties.md)
 - [Create an array conataining elements from 1 to n](https://github.com/AbdallahHemdan/TIL/blob/master/JS/Creating%20an%20array%20containing%20elements%20from%201%20to%20n.md)
+- [JavaScript Quickie— Dot Notation vs. Bracket Notation](https://codeburst.io/javascript-quickie-dot-notation-vs-bracket-notation-333641c0f781)
+- [=== vs == in js](https://github.com/AbdallahHemdan/TIL/blob/master/JS/4.%20%3D%3D%3D%20vs%20%3D%3D%20in%20js.md)
+- [what is the difference between undeclared and undefinded](https://github.com/AbdallahHemdan/TIL/blob/master/JS/5.%20what%20is%20the%20difference%20between%20undeclared%20and%20undefinded%20in%20js.md)
+- [What is IIFE.](https://github.com/AbdallahHemdan/TIL/blob/master/JS/6.%20What%20is%20IIFE.md)
+- [Explain event delegation](https://github.com/AbdallahHemdan/TIL/blob/master/JS/7.%20Explain%20event%20delegation.md)
+- [Explain how this works in JavaScript](https://github.com/AbdallahHemdan/TIL/blob/master/JS/8.%20Explain%20how%20this%20works%20in%20JavaScript.md)
 
 ## CSS
 - [What is CSS selector specificity and how does it work?](https://github.com/AbdallahHemdan/TIL/blob/master/CSS/1.%20What%20is%20CSS%20selector%20specificity%20and%20how%20does%20it%20work%3F.md)
