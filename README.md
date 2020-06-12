@@ -110,12 +110,15 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 <div align="center">
   
   <img src="https://martinfowler.com/bliki/images/frequency-reduces-difficulty/graph.png" />
+
+  ![image](https://user-images.githubusercontent.com/40190772/84452841-3b956480-ac57-11ea-8fdc-5b192e427302.png)
   
 </div>
 
 > “In JavaScript, variables don't have types, values do.”
 
 > “In React, The component that owns a piece of the state, should be the one modifying”
+
 
 ## TODO
 - [HTTP response status codes]()
