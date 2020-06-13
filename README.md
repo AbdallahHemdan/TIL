@@ -70,7 +70,6 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 - [JS String Methods](https://www.w3schools.com/js/js_string_methods.asp)
 - [Function parameters vs Function arguments](https://github.com/AbdallahHemdan/TIL/blob/master/JS/9.%20Function%20parameters%20vs%20Function%20arguments%20.md)
 - [Do Not Declare Strings, Numbers, and Booleans as Objects!](https://github.com/AbdallahHemdan/TIL/blob/master/JS/10.%20Do%20Not%20Declare%20Strings%2C%20Numbers%2C%20and%20Booleans%20as%20Objects.md)
-
 - [Objects cannot be compared](https://github.com/AbdallahHemdan/TIL/blob/master/JS/11.%20%20Objects%20cannot%20be%20compared.md)
 
 ## CSS
