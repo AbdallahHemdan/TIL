@@ -72,7 +72,7 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 - [Do Not Declare Strings, Numbers, and Booleans as Objects!](https://github.com/AbdallahHemdan/TIL/blob/master/JS/10.%20Do%20Not%20Declare%20Strings%2C%20Numbers%2C%20and%20Booleans%20as%20Objects.md)
 - [Objects cannot be compared](https://github.com/AbdallahHemdan/TIL/blob/master/JS/11.%20%20Objects%20cannot%20be%20compared.md)
 - [if (0.1 + 0.2 === 0.3)](https://github.com/AbdallahHemdan/TIL/blob/master/JS/12.%20if(0.1%20%2B%200.2%20%3D%3D%3D%200.3).md)
-
+- [ How do I know if a variable is an array](https://github.com/AbdallahHemdan/TIL/blob/master/JS/13.%20How%20do%20I%20know%20if%20a%20variable%20is%20an%20array.md)
 
 ## CSS
 - [What is CSS selector specificity and how does it work?](https://github.com/AbdallahHemdan/TIL/blob/master/CSS/1.%20What%20is%20CSS%20selector%20specificity%20and%20how%20does%20it%20work%3F.md)
