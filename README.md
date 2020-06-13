@@ -73,6 +73,13 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 - [Objects cannot be compared](https://github.com/AbdallahHemdan/TIL/blob/master/JS/11.%20%20Objects%20cannot%20be%20compared.md)
 - [if (0.1 + 0.2 === 0.3)](https://github.com/AbdallahHemdan/TIL/blob/master/JS/12.%20if(0.1%20%2B%200.2%20%3D%3D%3D%200.3).md)
 - [ How do I know if a variable is an array](https://github.com/AbdallahHemdan/TIL/blob/master/JS/13.%20How%20do%20I%20know%20if%20a%20variable%20is%20an%20array.md)
+- [push, pop vs unshift, shift](https://github.com/AbdallahHemdan/TIL/blob/master/JS/14.%20push%2C%20pop%20vs%20unshift%2C%20shift.md)
+- [Using splice() to Remove Elements](https://github.com/AbdallahHemdan/TIL/blob/master/JS/15.%20Using%20splice()%20to%20Remove%20Elements.md)
+- [Numeric Sort](https://github.com/AbdallahHemdan/TIL/blob/master/JS/16.%20Numeric%20Sort.md)
+- [Max and Min in JS array](https://github.com/AbdallahHemdan/TIL/blob/master/JS/17.%20Max%20and%20Min%20in%20JS%20array.md)
+- [Array.filter()](https://github.com/AbdallahHemdan/TIL/blob/master/JS/18.%20Array.filter().md)
+- [Array.reduce()](https://github.com/AbdallahHemdan/TIL/blob/master/JS/19.%20Array.reduce().md)
+- [Array.find() and Array.findIndex()](https://github.com/AbdallahHemdan/TIL/blob/master/JS/20.%20Array.find()%20and%20Array.findIndex().md)
 
 ## CSS
 - [What is CSS selector specificity and how does it work?](https://github.com/AbdallahHemdan/TIL/blob/master/CSS/1.%20What%20is%20CSS%20selector%20specificity%20and%20how%20does%20it%20work%3F.md)
