@@ -68,6 +68,8 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 - [Explain event delegation](https://github.com/AbdallahHemdan/TIL/blob/master/JS/7.%20Explain%20event%20delegation.md)
 - [Explain how this works in JavaScript](https://github.com/AbdallahHemdan/TIL/blob/master/JS/8.%20Explain%20how%20this%20works%20in%20JavaScript.md)
 - [JS String Methods](https://www.w3schools.com/js/js_string_methods.asp)
+- [Function parameters vs Function arguments](https://github.com/AbdallahHemdan/TIL/blob/master/JS/9.%20Function%20parameters%20vs%20Function%20arguments%20.md)
+
 ## CSS
 - [What is CSS selector specificity and how does it work?](https://github.com/AbdallahHemdan/TIL/blob/master/CSS/1.%20What%20is%20CSS%20selector%20specificity%20and%20how%20does%20it%20work%3F.md)
 - [What’s the difference between “resetting” and “normalizing” CSS? Which would you choose, and why?](https://github.com/AbdallahHemdan/TIL/blob/master/CSS/2.%20What's%20the%20difference%20between%20%22resetting%22%20and%20%22normalizing%22%20CSS%3F%20Which%20would%20you%20choose%2C%20and%20why%3F.md)
