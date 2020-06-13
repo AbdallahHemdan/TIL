@@ -71,6 +71,8 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 - [Function parameters vs Function arguments](https://github.com/AbdallahHemdan/TIL/blob/master/JS/9.%20Function%20parameters%20vs%20Function%20arguments%20.md)
 - [Do Not Declare Strings, Numbers, and Booleans as Objects!](https://github.com/AbdallahHemdan/TIL/blob/master/JS/10.%20Do%20Not%20Declare%20Strings%2C%20Numbers%2C%20and%20Booleans%20as%20Objects.md)
 
+- [Objects cannot be compared](https://github.com/AbdallahHemdan/TIL/blob/master/JS/11.%20%20Objects%20cannot%20be%20compared.md)
+
 ## CSS
 - [What is CSS selector specificity and how does it work?](https://github.com/AbdallahHemdan/TIL/blob/master/CSS/1.%20What%20is%20CSS%20selector%20specificity%20and%20how%20does%20it%20work%3F.md)
 - [What’s the difference between “resetting” and “normalizing” CSS? Which would you choose, and why?](https://github.com/AbdallahHemdan/TIL/blob/master/CSS/2.%20What's%20the%20difference%20between%20%22resetting%22%20and%20%22normalizing%22%20CSS%3F%20Which%20would%20you%20choose%2C%20and%20why%3F.md)
