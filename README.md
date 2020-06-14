@@ -46,6 +46,7 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 ## General
 - [What is HTTP](https://www.w3schools.com/whatis/whatis_http.asp)
 - [What is CLI](https://www.w3schools.com/whatis/whatis_cli.asp)
+- [What is Single Page Application](https://github.com/AbdallahHemdan/TIL/blob/master/General/1.%20What%20is%20SPA.md)
 
 ## HTML
 - [What does DOCTYPE in HTML do](https://github.com/AbdallahHemdan/TIL/blob/master/HTML/1.%20What%20does%20DOCTYPE%20in%20HTML%20do.md)
