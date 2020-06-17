@@ -48,6 +48,7 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 - [What is CLI](https://www.w3schools.com/whatis/whatis_cli.asp)
 - [What is Single Page Application](https://github.com/AbdallahHemdan/TIL/blob/master/General/1.%20What%20is%20SPA.md)
 - [What is the usage of "exact" in routing](https://github.com/AbdallahHemdan/TIL/blob/master/General/2.%20What%20is%20the%20usage%20of%20%22exact%22%20in%20routing.md)
+- [Deploy to Github Pages like a pro with Github Actions](https://dev.to/rolanddoda/deploy-to-github-pages-like-a-pro-with-github-actions-4hdg)
 
 ## HTML
 - [What does DOCTYPE in HTML do](https://github.com/AbdallahHemdan/TIL/blob/master/HTML/1.%20What%20does%20DOCTYPE%20in%20HTML%20do.md)
