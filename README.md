@@ -60,7 +60,7 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 - [Why is it generally a good idea to position CSS `<link>`s between `<head></head>` and JS `<script>`s just before `</body>`? Do you know any exceptions?](https://github.com/AbdallahHemdan/TIL/blob/master/HTML/7.%20Why%20is%20it%20generally%20a%20good%20idea%20to%20position%20CSS%20links%20between%20head%20and%20script%20tags.md)
 - [Have you used different HTML templating languages before?](https://github.com/AbdallahHemdan/TIL/blob/master/HTML/8.%20Have%20you%20used%20different%20HTML%20templating%20languages%20before%3F.md)
 - [Adding Alt Text To An Image](https://github.com/AbdallahHemdan/TIL/blob/master/HTML/9.%20Adding%20Alt%20Text%20To%20An%20Image.md)
-
+- [Check if an item is exists in localStorage or not](https://github.com/AbdallahHemdan/TIL/blob/master/HTML/10.%20Check%20if%20an%20item%20is%20exists%20in%20localStorage%20or%20not.md)
 ## JS
 - [Check if something is an Array or not](https://github.com/AbdallahHemdan/TIL/blob/master/JS/Check%20if%20something%20is%20an%20Array%20or%20not.md)
 - [Create An Object With No Properties](https://github.com/AbdallahHemdan/TIL/blob/master/JS/Create%20An%20Object%20With%20No%20Properties.md)
