@@ -98,6 +98,7 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 
 ## Chrome
 - [Access a value logged to the console](https://github.com/AbdallahHemdan/TIL/blob/master/Chrome/Access%20a%20value%20logged%20to%20the%20console.md)
+- [How do I left or right align text in Google Chrome 6 address bar](https://github.com/AbdallahHemdan/TIL/blob/master/Chrome/How%20do%20I%20left%20or%20right%20align%20text%20in%20Google%20Chrome%206%20address%20bar.md)
 
 ## React 
 - [What is React?](https://github.com/AbdallahHemdan/TIL/blob/master/React/What%20is%20React%3F.md)
