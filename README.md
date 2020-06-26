@@ -37,6 +37,7 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 - [Windows](#windows)
 - [Internet](#internet)
 - [CSS](#css)
+- [CSS Methodologies](#css-methodologies)
 - [GIT](#git)
 - [VP of Engineering](#vp-of-engineering)
 - [Quotes](#quotes) 
@@ -97,6 +98,9 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 - [What’s the difference between inline and inline-block?](https://github.com/AbdallahHemdan/TIL/blob/master/CSS/6.%20What's%20the%20difference%20between%20inline%20and%20inline-block%3F.md)
 - [Can you give an example of an @media property other than screen?](https://github.com/AbdallahHemdan/TIL/blob/master/CSS/7.%20%20Can%20you%20give%20an%20example%20of%20an%20%40media%20property%20other%20than%20screen%3F.md)
 - [Describe pseudo-elements and discuss what they are used for.](https://github.com/AbdallahHemdan/TIL/blob/master/CSS/8.%20Describe%20pseudo-elements%20and%20discuss%20what%20they%20are%20used%20for.md)
+
+## CSS Methodologies
+- [BEM-Block, Element and Modifier](https://github.com/AbdallahHemdan/TIL/tree/master/CSS%20Methodologies/BEM)
 
 ## Chrome
 - [Access a value logged to the console](https://github.com/AbdallahHemdan/TIL/blob/master/Chrome/Access%20a%20value%20logged%20to%20the%20console.md)
