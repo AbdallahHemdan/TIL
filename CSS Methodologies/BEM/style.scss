@@ -1,0 +1,60 @@
+body,
+html {
+  margin: 0;
+  height: 100vh;
+}
+
+body {
+  display: grid;
+  place-content: center;
+  background-color: #eee;
+  font-family: "Nunito", sans-serif;
+}
+
+.card {
+  padding: 0 5em;
+  width: 300px;
+  &__image {
+    display: block;
+    height: 100px;
+    width: 100%;
+    background-color: #e0466b;
+  }
+
+  &__content {
+    padding: 1.5em;
+    background-color: #fff;
+  }
+
+  &__list {
+    list-style-type: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+  }
+
+  &__item {
+    padding: 0.3em 0.5em;
+    background-color: #ccc;
+    margin-right: 0.5em;
+    border-radius: 0.5em;
+    font-size: 1em;
+    color: #000;
+
+    &--active {
+      font-weight: bold;
+      color: #e0466b;
+    }
+  }
+
+  &__link {
+    background-color: #e0466b;
+    padding: 10px;
+    border-radius: 10px;
+    text-decoration: none;
+    color: #fff;
+    &:hover {
+      background: #267764;
+    }
+  }
+}
