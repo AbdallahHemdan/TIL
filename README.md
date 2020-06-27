@@ -149,6 +149,12 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 > “In React, The component that owns a piece of the state, should be the one modifying”
 
 >  “It's worse to use a semantic element in a wrong way than staying neutral.”
+
+> “ كلـما أدبني الدهـر ... أراني نقص عقلي ” 
+> “ وإذا ما أزددت علما ... زادني علما بجهلي ”
+> الإمام الشافعي
+ 
+
 ## Fun
 - [margin: auto; vs margin: 0 auto;](https://github.com/AbdallahHemdan/TIL/blob/master/Fun/margin:%20auto;%20vs%20margin:%200%20auto;.md)
 
