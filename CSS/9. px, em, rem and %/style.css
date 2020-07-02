@@ -1,0 +1,23 @@
+html {
+  font-size: 20px;
+}
+
+.title-em {
+  font-size: 30px;
+}
+
+.title-em p {
+  font-size: 1em;
+}
+
+.title-rem {
+  font-size: 2rem;
+}
+
+.title-percentage {
+  font-size: 50px;
+}
+
+.title-percentage p {
+  font-size: 100%;
+}
