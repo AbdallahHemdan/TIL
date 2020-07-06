@@ -34,6 +34,7 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 - [Chrome](#chrome)
 - [React](#react)
 - [Vue](#vue)
+- [Angular](#angular)
 - [Windows](#windows)
 - [Internet](#internet)
 - [CSS](#css)
@@ -119,6 +120,9 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 
 ## Vue
 - [How to add cdn css file to Vue Cli 3 project?](https://github.com/AbdallahHemdan/TIL/blob/master/Vue/How%20to%20add%20cdn%20css%20file%20to%20Vue%20Cli%203%20project.md)
+
+## Angular
+- [ngModel within form tag](https://github.com/AbdallahHemdan/TIL/blob/master/Angular/1.%20ngModel%20within%20form%20tag.md)
 
 ## Git
 - [Go to a particular revision](https://github.com/AbdallahHemdan/TIL/blob/master/GIT/Go%20to%20particular%20revision.md)
