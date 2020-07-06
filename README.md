@@ -168,6 +168,10 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 - [Describe the difference between <script>, <script async> and <script defer>.]()
 - [Search for border vs outline css]()
 - [Search for css selectors next sibling direct child all]()
+- [What is Webhook]()
+- [Read more about "Progressive Enhancement"]()
+- [Read more about "Polyfill vs Ponyfill"]()
+- [Read more about "Graceful degration"]()
 
 ## Contributing
 
