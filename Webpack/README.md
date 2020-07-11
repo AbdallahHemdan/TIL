@@ -14,3 +14,18 @@
 > In this way, webpack **statically** traverses all modules to build the graph, and uses it to generate a single bundle (or several bundles) — a JavaScript file containing the code from all modules combined in the correct order.
 
 > **“Statically”** means that, when webpack builds its dependency graph, it doesn’t execute the source code but stitches modules and their dependencies together into a bundle. This can then be included in your HTML files.
+
+
+
+
+
+
+
+
+
+
+
+
+## Acknowledgement
+
+- [A Beginner’s Guide to Webpack](https://www.sitepoint.com/webpack-beginner-guide/)
