@@ -1,10 +1,6 @@
 ![Webpack](https://user-images.githubusercontent.com/40190772/87235137-d8732b00-c3d8-11ea-9422-fe329c1868af.png)
 
-<p align="center">
-  
-  <h3>Learning Webpack</h3>
-  
-</p>
+<h3 align="center">Learning Webpack</h3>
 
 # A Beginner’s Guide to Webpack
 
