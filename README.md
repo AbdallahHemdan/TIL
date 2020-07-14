@@ -56,6 +56,8 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 - [Deploy to Github Pages like a pro with Github Actions](https://dev.to/rolanddoda/deploy-to-github-pages-like-a-pro-with-github-actions-4hdg)
 - [What Bootstrap means in CS](https://github.com/AbdallahHemdan/TIL/blob/master/General/3.%20what%20is%20bootstrap%20means%20in%20CS.md)
 - [ISO Curreny Codes](https://www2.1010data.com/documentationcenter/prod/1010dataReferenceManual/DataTypesAndFormats/currencyUnitCodes.html)
+- [Why should text files end with a newline?](https://stackoverflow.com/a/729795/9980667)
+
 ## HTML
 - [What does DOCTYPE in HTML do](https://github.com/AbdallahHemdan/TIL/blob/master/HTML/1.%20What%20does%20DOCTYPE%20in%20HTML%20do.md)
 - [How do you serve a page with content in multiple languages?](https://github.com/AbdallahHemdan/TIL/blob/master/HTML/2.%20How%20do%20you%20serve%20a%20page%20with%20content%20in%20multiple%20languages%3F.md)
