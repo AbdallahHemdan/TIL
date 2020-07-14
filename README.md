@@ -69,6 +69,8 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 - [Have you used different HTML templating languages before?](https://github.com/AbdallahHemdan/TIL/blob/master/HTML/8.%20Have%20you%20used%20different%20HTML%20templating%20languages%20before%3F.md)
 - [Adding Alt Text To An Image](https://github.com/AbdallahHemdan/TIL/blob/master/HTML/9.%20Adding%20Alt%20Text%20To%20An%20Image.md)
 - [Check if an item is exists in localStorage or not](https://github.com/AbdallahHemdan/TIL/blob/master/HTML/10.%20Check%20if%20an%20item%20is%20exists%20in%20localStorage%20or%20not.md)
+-[About rel=noopener](https://mathiasbynens.github.io/rel-noopener/)
+
 ## JS
 - [Check if something is an Array or not](https://github.com/AbdallahHemdan/TIL/blob/master/JS/Check%20if%20something%20is%20an%20Array%20or%20not.md)
 - [Create An Object With No Properties](https://github.com/AbdallahHemdan/TIL/blob/master/JS/Create%20An%20Object%20With%20No%20Properties.md)
@@ -128,6 +130,8 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 
 ## Git
 - [Go to a particular revision](https://github.com/AbdallahHemdan/TIL/blob/master/GIT/Go%20to%20particular%20revision.md)
+- [How to change a Git commit message after a push](https://www.educative.io/edpresso/how-to-change-a-git-commit-message-after-a-push)
+- [Writing good commit messages](https://github.com/erlang/otp/wiki/writing-good-commit-messages)
 
 ## VP of Engineering
 - [Common questions in VP of Engineering Interview](https://github.com/AbdallahHemdan/TIL/tree/master/VP%20of%20Engineering) 
