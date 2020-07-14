@@ -69,7 +69,7 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 - [Have you used different HTML templating languages before?](https://github.com/AbdallahHemdan/TIL/blob/master/HTML/8.%20Have%20you%20used%20different%20HTML%20templating%20languages%20before%3F.md)
 - [Adding Alt Text To An Image](https://github.com/AbdallahHemdan/TIL/blob/master/HTML/9.%20Adding%20Alt%20Text%20To%20An%20Image.md)
 - [Check if an item is exists in localStorage or not](https://github.com/AbdallahHemdan/TIL/blob/master/HTML/10.%20Check%20if%20an%20item%20is%20exists%20in%20localStorage%20or%20not.md)
--[About rel=noopener](https://mathiasbynens.github.io/rel-noopener/)
+- [About rel=noopener](https://mathiasbynens.github.io/rel-noopener/)
 
 ## JS
 - [Check if something is an Array or not](https://github.com/AbdallahHemdan/TIL/blob/master/JS/Check%20if%20something%20is%20an%20Array%20or%20not.md)
