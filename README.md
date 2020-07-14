@@ -184,6 +184,7 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 - [Read more about "Polyfill vs Ponyfill"]()
 - [Read more about "Graceful degration"]()
 - [Read more about "Dependency Injection in JavaScript"](https://www.devbridge.com/articles/dependency-injection-in-javascript/)
+- [How to lazy load images]()
 
 ## Contributing
 
