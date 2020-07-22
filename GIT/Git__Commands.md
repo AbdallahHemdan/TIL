@@ -17,6 +17,8 @@ Most Used Git Commands
 | `git add -A` | Add all new and changed files to the staging area |
 | `git commit -m "[commit message]"` | Commit changes |
 | `git rm -r [file-name.txt]` | Remove a file (or folder) |
+| `git remote` | Provide the remote name of the git repository |
+| `git remote -v` or `git remote --verbose` | Show urls of the remote repository |
 
 ### 🔗 Branching & Merging
 
