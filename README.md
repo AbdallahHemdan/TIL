@@ -40,6 +40,7 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 - [CSS](#css)
 - [CSS Methodologies](#css-methodologies)
 - [GIT](#git)
+- [BASH](#bash)
 - [VP of Engineering](#vp-of-engineering)
 - [Quotes](#quotes) 
 - [Fun](#fun)
@@ -135,6 +136,9 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 - [Writing good commit messages](https://github.com/erlang/otp/wiki/writing-good-commit-messages)
 - [Git commands](https://github.com/AbdallahHemdan/TIL/blob/master/GIT/Git__Commands.md)
 - [Git commit emojis](https://github.com/AbdallahHemdan/TIL/blob/master/GIT/GIT__Commit__Emojis.md)
+
+## BASH
+- [ls -a & ls -la](https://github.com/AbdallahHemdan/TIL/blob/master/BASH/1.%20ls%20-a%20&%20ls%20-la.md)
 
 ## VP of Engineering
 - [Common questions in VP of Engineering Interview](https://github.com/AbdallahHemdan/TIL/tree/master/VP%20of%20Engineering) 
