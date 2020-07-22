@@ -133,6 +133,7 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 - [Go to a particular revision](https://github.com/AbdallahHemdan/TIL/blob/master/GIT/Go%20to%20particular%20revision.md)
 - [How to change a Git commit message after a push](https://www.educative.io/edpresso/how-to-change-a-git-commit-message-after-a-push)
 - [Writing good commit messages](https://github.com/erlang/otp/wiki/writing-good-commit-messages)
+- [Git commands](https://github.com/AbdallahHemdan/TIL/blob/master/GIT/Git__Commands.md)
 
 ## VP of Engineering
 - [Common questions in VP of Engineering Interview](https://github.com/AbdallahHemdan/TIL/tree/master/VP%20of%20Engineering) 
