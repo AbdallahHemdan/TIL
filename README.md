@@ -57,6 +57,7 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 - [What Bootstrap means in CS](https://github.com/AbdallahHemdan/TIL/blob/master/General/3.%20what%20is%20bootstrap%20means%20in%20CS.md)
 - [ISO Curreny Codes](https://www2.1010data.com/documentationcenter/prod/1010dataReferenceManual/DataTypesAndFormats/currencyUnitCodes.html)
 - [Why should text files end with a newline?](https://stackoverflow.com/a/729795/9980667)
+- [Fix nginx error of using port 80](https://www.programmersought.com/article/2151484094/)
 
 ## HTML
 - [What does DOCTYPE in HTML do](https://github.com/AbdallahHemdan/TIL/blob/master/HTML/1.%20What%20does%20DOCTYPE%20in%20HTML%20do.md)
