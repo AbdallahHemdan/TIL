@@ -39,6 +39,7 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 - [Internet](#internet)
 - [CSS](#css)
 - [CSS Methodologies](#css-methodologies)
+- [Performance](#performance)
 - [GIT](#git)
 - [BASH](#bash)
 - [VP of Engineering](#vp-of-engineering)
@@ -115,6 +116,9 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 - [Access a value logged to the console](https://github.com/AbdallahHemdan/TIL/blob/master/Chrome/Access%20a%20value%20logged%20to%20the%20console.md)
 - [How do I left or right align text in Google Chrome 6 address bar](https://github.com/AbdallahHemdan/TIL/blob/master/Chrome/How%20do%20I%20left%20or%20right%20align%20text%20in%20Google%20Chrome%206%20address%20bar.md)
 
+## Performance
+- [Page Load Time](https://github.com/AbdallahHemdan/TIL/blob/master/Performance/1.%20Page%20Load%20Time.md) 
+
 ## React 
 - [What is React?](https://github.com/AbdallahHemdan/TIL/blob/master/React/What%20is%20React%3F.md)
 - [What are the major features of React?](https://github.com/AbdallahHemdan/TIL/blob/master/React/What%20are%20the%20major%20features%20of%20React%3F.md)
@@ -179,20 +183,21 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 - [margin: auto; vs margin: 0 auto;](https://github.com/AbdallahHemdan/TIL/blob/master/Fun/margin:%20auto;%20vs%20margin:%200%20auto;.md)
 
 ## TODO
-- [HTTP response status codes]()
-- [argc and argv]()
-- [how to enter argc and argv in Visual Studio]()
-- [Prototypal pattern](https://frontendmasters.com/courses/getting-started-javascript-v2/prototypes/)
-- [Describe the difference between <script>, <script async> and <script defer>.]()
-- [Search for border vs outline css]()
-- [Search for css selectors next sibling direct child all]()
-- [What is Webhook]()
-- [Read more about "Progressive Enhancement"]()
-- [Read more about "Polyfill vs Ponyfill"]()
-- [Read more about "Graceful degration"]()
-- [Read more about "Dependency Injection in JavaScript"](https://www.devbridge.com/articles/dependency-injection-in-javascript/)
-- [How to lazy load images]()
-- [What is Stack-Trace]()
+- [ ] [HTTP response status codes]()
+- [ ] [argc and argv]()
+- [ ] [how to enter argc and argv in Visual Studio]()
+- [ ] [Prototypal pattern](https://frontendmasters.com/courses/getting-started-javascript-v2/prototypes/)
+- [ ] [Describe the difference between <script>, <script async> and <script defer>.]()
+- [ ] [Search for border vs outline css]()
+- [ ] [Search for css selectors next sibling direct child all]()
+- [ ] [What is Webhook]()
+- [ ] [Read more about "Progressive Enhancement"]()
+- [ ] [Read more about "Polyfill vs Ponyfill"]()
+- [ ] [Read more about "Graceful degration"]()
+- [ ] [Read more about "Dependency Injection in JavaScript"](https://www.devbridge.com/articles/dependency-injection-in-javascript/)
+- [ ] [How to lazy load images]()
+- [ ] [What is Stack-Trace]()
+- [ ] [Why you sould use CDN (Content Delivery Network)]()
 
 ## Contributing
 
