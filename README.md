@@ -111,6 +111,7 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 - [px vs em vs rem vs %](https://github.com/AbdallahHemdan/TIL/tree/master/CSS/9.%20px%2C%20em%2C%20rem%20and%20%25)
 - [How do I disable the resizable property of a textarea?](https://stackoverflow.com/questions/5235142/how-do-i-disable-the-resizable-property-of-a-textarea)
 - [Style element in `disable` state](https://stackoverflow.com/questions/5235142/how-do-i-disable-the-resizable-property-of-a-textarea)
+- [How to Style placeholder](https://stackoverflow.com/questions/7381446/center-html-input-text-field-placeholder)
 
 ## CSS Methodologies
 - [BEM-Block, Element and Modifier](https://github.com/AbdallahHemdan/TIL/tree/master/CSS%20Methodologies/BEM)
