@@ -61,6 +61,7 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 - [Why should text files end with a newline?](https://stackoverflow.com/a/729795/9980667)
 - [Fix nginx error of using port 80](https://www.programmersought.com/article/2151484094/)
 - [What is Webhook](https://github.com/AbdallahHemdan/TIL/blob/master/General/4.%20What%20is%20Webhook.md)
+
 ## HTML
 - [What does DOCTYPE in HTML do](https://github.com/AbdallahHemdan/TIL/blob/master/HTML/1.%20What%20does%20DOCTYPE%20in%20HTML%20do.md)
 - [How do you serve a page with content in multiple languages?](https://github.com/AbdallahHemdan/TIL/blob/master/HTML/2.%20How%20do%20you%20serve%20a%20page%20with%20content%20in%20multiple%20languages%3F.md)
@@ -108,6 +109,8 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 - [Can you give an example of an @media property other than screen?](https://github.com/AbdallahHemdan/TIL/blob/master/CSS/7.%20%20Can%20you%20give%20an%20example%20of%20an%20%40media%20property%20other%20than%20screen%3F.md)
 - [Describe pseudo-elements and discuss what they are used for.](https://github.com/AbdallahHemdan/TIL/blob/master/CSS/8.%20Describe%20pseudo-elements%20and%20discuss%20what%20they%20are%20used%20for.md)
 - [px vs em vs rem vs %](https://github.com/AbdallahHemdan/TIL/tree/master/CSS/9.%20px%2C%20em%2C%20rem%20and%20%25)
+- [How do I disable the resizable property of a textarea?](https://stackoverflow.com/questions/5235142/how-do-i-disable-the-resizable-property-of-a-textarea)
+- [Style element in `disable` state](https://stackoverflow.com/questions/5235142/how-do-i-disable-the-resizable-property-of-a-textarea)
 
 ## CSS Methodologies
 - [BEM-Block, Element and Modifier](https://github.com/AbdallahHemdan/TIL/tree/master/CSS%20Methodologies/BEM)
