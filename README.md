@@ -113,6 +113,7 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 - [Style element in `disable` state](https://stackoverflow.com/questions/5235142/how-do-i-disable-the-resizable-property-of-a-textarea)
 - [How to Style placeholder](https://stackoverflow.com/questions/7381446/center-html-input-text-field-placeholder)
 - [How to style all elements except first/last](https://stackoverflow.com/questions/10033299/is-there-any-way-to-specify-a-css-shorthand-for-all-elements-except-the-first-l)
+-[How to remove the arrow in dropdown in Bootstrap 4?](https://stackoverflow.com/questions/38576503/how-to-remove-the-arrow-in-dropdown-in-bootstrap-4)
 
 ## CSS Methodologies
 - [BEM-Block, Element and Modifier](https://github.com/AbdallahHemdan/TIL/tree/master/CSS%20Methodologies/BEM)
