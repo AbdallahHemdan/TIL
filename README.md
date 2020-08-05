@@ -75,6 +75,7 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 - [Check if an item is exists in localStorage or not](https://github.com/AbdallahHemdan/TIL/blob/master/HTML/10.%20Check%20if%20an%20item%20is%20exists%20in%20localStorage%20or%20not.md)
 - [About rel=noopener](https://mathiasbynens.github.io/rel-noopener/)
 - [List of HTML Entity names](https://www.w3schools.com/charsets/ref_html_entities_4.asp)
+- [Center and right align flexbox elements](https://stackoverflow.com/questions/38948102/center-and-right-align-flexbox-elements)
 
 ## JS
 - [Check if something is an Array or not](https://github.com/AbdallahHemdan/TIL/blob/master/JS/Check%20if%20something%20is%20an%20Array%20or%20not.md)
