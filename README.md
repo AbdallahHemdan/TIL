@@ -75,7 +75,7 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 - [Check if an item is exists in localStorage or not](https://github.com/AbdallahHemdan/TIL/blob/master/HTML/10.%20Check%20if%20an%20item%20is%20exists%20in%20localStorage%20or%20not.md)
 - [About rel=noopener](https://mathiasbynens.github.io/rel-noopener/)
 - [List of HTML Entity names](https://www.w3schools.com/charsets/ref_html_entities_4.asp)
-- [Center and right align flexbox elements](https://stackoverflow.com/questions/38948102/center-and-right-align-flexbox-elements)
+- [Center and Right align flexbox elements](https://stackoverflow.com/questions/38948102/center-and-right-align-flexbox-elements)
 
 ## JS
 - [Check if something is an Array or not](https://github.com/AbdallahHemdan/TIL/blob/master/JS/Check%20if%20something%20is%20an%20Array%20or%20not.md)
@@ -117,6 +117,7 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 - [How to style all elements except first/last](https://stackoverflow.com/questions/10033299/is-there-any-way-to-specify-a-css-shorthand-for-all-elements-except-the-first-l)
 - [How to remove the arrow in dropdown in Bootstrap 4?](https://stackoverflow.com/questions/38576503/how-to-remove-the-arrow-in-dropdown-in-bootstrap-4)
 - [How to hide scroll bar if not needed](https://stackoverflow.com/questions/18716863/css-hide-scroll-bar-if-not-needed)
+
 ## CSS Methodologies
 - [BEM-Block, Element and Modifier](https://github.com/AbdallahHemdan/TIL/tree/master/CSS%20Methodologies/BEM)
 
@@ -138,6 +139,7 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 
 ## Vue
 - [How to add cdn css file to Vue Cli 3 project?](https://github.com/AbdallahHemdan/TIL/blob/master/Vue/How%20to%20add%20cdn%20css%20file%20to%20Vue%20Cli%203%20project.md)
+- [Horizontal Scroll Using Buttons in VueJS](https://stackoverflow.com/questions/51222035/horizontal-scroll-using-buttons-in-vuejs)
 
 ## Angular
 - [ngModel within form tag](https://github.com/AbdallahHemdan/TIL/blob/master/Angular/1.%20ngModel%20within%20form%20tag.md)
