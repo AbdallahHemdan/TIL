@@ -132,3 +132,6 @@ new Vue({
 ## [5] Primitive vs Reference Types
 > The main difference between *Primitive* and *Refernece* types is when we send the refernce types to multiple components we send a **_refernce_** of the element so all the component will consume the same element (if any component changed the value of the element it will be changed in the whole component) unlike of **_primitive_** types when we send element to component we send a brand new copy of the element (if any component changed the value of the element it will no affect the value in the other components)
 
+## [6] [Events (child to parent)](https://www.youtube.com/watch?v=5pvG6fzkdFM&list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa&index=25)
+
+
