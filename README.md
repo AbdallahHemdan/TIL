@@ -143,6 +143,7 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 - [Horizontal Scroll Using Buttons in VueJS](https://stackoverflow.com/questions/51222035/horizontal-scroll-using-buttons-in-vuejs)
 - [hide navbar in auth pages vue js](https://github.com/vuejs/vue-router/issues/254)
 - [DynamicComponents - keep alive](https://github.com/AbdallahHemdan/TIL/blob/master/Vue/DynamicComponents%20-%20keep%20alive.md)
+- [Passing props dynamically to dynamic component in VueJS](https://stackoverflow.com/questions/43658481/passing-props-dynamically-to-dynamic-component-in-vuejs)
 
 ## Vuex
 - [Passing multiple parameters to mutation](https://stackoverflow.com/questions/46097687/vuex-passing-multiple-parameters-to-mutation)
