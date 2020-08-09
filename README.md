@@ -146,6 +146,7 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 - [Passing props dynamically to dynamic component in VueJS](https://stackoverflow.com/questions/43658481/passing-props-dynamically-to-dynamic-component-in-vuejs)
 - [check if user is offline and then show div for a second once they come back online](https://stackoverflow.com/questions/51689739/vue-check-if-user-is-offline-and-then-show-div-for-a-second-once-they-come-bac)
 - [Add rows to the table dynamically with the use of vue.js](https://stackoverflow.com/questions/52211682/add-rows-to-the-table-dynamically-with-the-use-of-vue-js)
+- [How to Import a Sass File into Every Vue Component in an App](https://css-tricks.com/how-to-import-a-sass-file-into-every-vue-component-in-an-app/)
 
 ## Vuex
 - [Passing multiple parameters to mutation](https://stackoverflow.com/questions/46097687/vuex-passing-multiple-parameters-to-mutation)
