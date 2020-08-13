@@ -36,6 +36,7 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 - [Vue](#vue)
 - [Vuex](#vuex)
 - [Angular](#angular)
+- [AngularJS](#angularjs)
 - [Windows](#windows)
 - [Internet](#internet)
 - [CSS](#css)
@@ -153,6 +154,9 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 
 ## Angular
 - [ngModel within form tag](https://github.com/AbdallahHemdan/TIL/blob/master/Angular/1.%20ngModel%20within%20form%20tag.md)
+
+## AngularJS
+- [Testing setTimeout/setInterval](https://dev.to/rfornal/testing-settimeout-setinterval-22ff)
 
 ## Git
 - [Go to a particular revision](https://github.com/AbdallahHemdan/TIL/blob/master/GIT/Go%20to%20particular%20revision.md)
