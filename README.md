@@ -126,6 +126,7 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 ## Chrome
 - [Access a value logged to the console](https://github.com/AbdallahHemdan/TIL/blob/master/Chrome/Access%20a%20value%20logged%20to%20the%20console.md)
 - [How do I left or right align text in Google Chrome 6 address bar](https://github.com/AbdallahHemdan/TIL/blob/master/Chrome/How%20do%20I%20left%20or%20right%20align%20text%20in%20Google%20Chrome%206%20address%20bar.md)
+- [copy data stored as global variables dev tools](https://scottwhittaker.net/chrome-devtools/2016/02/29/chrome-devtools-copy-object.html)
 
 ## Performance
 - [Page Load Time](https://github.com/AbdallahHemdan/TIL/blob/master/Performance/1.%20Page%20Load%20Time.md) 
