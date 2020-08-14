@@ -78,6 +78,7 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 - [About rel=noopener](https://mathiasbynens.github.io/rel-noopener/)
 - [List of HTML Entity names](https://www.w3schools.com/charsets/ref_html_entities_4.asp)
 - [Center and Right align flexbox elements](https://stackoverflow.com/questions/38948102/center-and-right-align-flexbox-elements)
+- [Prevent input type=“number” getting negative values?](https://stackoverflow.com/questions/7372067/is-there-any-way-to-prevent-input-type-number-getting-negative-values)
 
 ## JS
 - [Check if something is an Array or not](https://github.com/AbdallahHemdan/TIL/blob/master/JS/Check%20if%20something%20is%20an%20Array%20or%20not.md)
