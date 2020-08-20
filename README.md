@@ -224,6 +224,11 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 - [ ] [How to lazy load images]()
 - [ ] [What is Stack-Trace]()
 - [ ] [Why you sould use CDN (Content Delivery Network)]()
+- [ ] [How to revert last commit git]()
+- [ ] [What is cherry-pick in git]()
+- [ ] [What is stash in git]()
+
+  
 
 ## Contributing
 
