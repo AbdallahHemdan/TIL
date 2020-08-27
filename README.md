@@ -81,6 +81,7 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 - [Prevent input type=“number” getting negative values?](https://stackoverflow.com/questions/7372067/is-there-any-way-to-prevent-input-type-number-getting-negative-values)
 - [`<figure>` tag : The Figure with Optional Caption element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figure)
 - [`<code>`tag : The Inline Code element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/code)
+- [HTML contenteditable](https://h.daily-dev-tips.com/did-you-know-html-elements-can-be-editable)
 
 ## JS
 - [Check if something is an Array or not](https://github.com/AbdallahHemdan/TIL/blob/master/JS/Check%20if%20something%20is%20an%20Array%20or%20not.md)
