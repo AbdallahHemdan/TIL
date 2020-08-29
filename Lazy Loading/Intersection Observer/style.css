@@ -1,0 +1,32 @@
+body {
+  height: 3500px;
+}
+
+section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  color: #fff;
+  font-size: 24px;
+}
+
+.section1 {
+  background-color: #f00;
+}
+
+.section2 {
+  background-color: #0f0;
+}
+
+.section3 {
+  background-color: #00f;
+}
+
+.section4 {
+  background-color: #f0f;
+}
+
+.reverse {
+  background-color: #000;
+}
