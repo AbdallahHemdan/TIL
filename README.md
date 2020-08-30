@@ -207,7 +207,8 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 > “ كلـما أدبني الدهـر ... أراني نقص عقلي ” 
 > “ وإذا ما أزددت علما ... زادني علما بجهلي ”
 > الإمام الشافعي
- 
+
+> “**Pure win for performance!**“ 
 
 ## Fun
 - [margin: auto; vs margin: 0 auto;](https://github.com/AbdallahHemdan/TIL/blob/master/Fun/margin:%20auto;%20vs%20margin:%200%20auto;.md)
