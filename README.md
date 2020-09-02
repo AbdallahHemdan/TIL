@@ -42,6 +42,7 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 - [CSS](#css)
 - [CSS Methodologies](#css-methodologies)
 - [Performance](#performance)
+- [JEST](#jest)
 - [GIT](#git)
 - [BASH](#bash)
 - [VP of Engineering](#vp-of-engineering)
@@ -135,6 +136,9 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 
 ## Performance
 - [Page Load Time](https://github.com/AbdallahHemdan/TIL/blob/master/Performance/1.%20Page%20Load%20Time.md) 
+
+## JEST
+- [Suggest using toHaveLength() (prefer-to-have-length)](https://github.com/jest-community/eslint-plugin-jest/blob/v23.20.0/docs/rules/prefer-to-have-length.md)
 
 ## React 
 - [What is React?](https://github.com/AbdallahHemdan/TIL/blob/master/React/What%20is%20React%3F.md)
