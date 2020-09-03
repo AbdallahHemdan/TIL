@@ -158,6 +158,7 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 - [check if user is offline and then show div for a second once they come back online](https://stackoverflow.com/questions/51689739/vue-check-if-user-is-offline-and-then-show-div-for-a-second-once-they-come-bac)
 - [Add rows to the table dynamically with the use of vue.js](https://stackoverflow.com/questions/52211682/add-rows-to-the-table-dynamically-with-the-use-of-vue-js)
 - [How to Import a Sass File into Every Vue Component in an App](https://css-tricks.com/how-to-import-a-sass-file-into-every-vue-component-in-an-app/)
+- [Testing logic inside a Vue.js watcher](https://vuedose.tips/testing-logic-inside-a-vue-js-watcher/)
 
 ## Vuex
 - [Passing multiple parameters to mutation](https://stackoverflow.com/questions/46097687/vuex-passing-multiple-parameters-to-mutation)
