@@ -166,6 +166,7 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 
 ## Angular
 - [ngModel within form tag](https://github.com/AbdallahHemdan/TIL/blob/master/Angular/1.%20ngModel%20within%20form%20tag.md)
+- [Component is not part of any NgModule or the module has not been imported into your module](https://stackoverflow.com/questions/44827999/component-is-not-part-of-any-ngmodule-or-the-module-has-not-been-imported-into-y)
 
 ## AngularJS
 - [Testing setTimeout/setInterval](https://dev.to/rfornal/testing-settimeout-setinterval-22ff)
