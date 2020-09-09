@@ -86,6 +86,8 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 - [x] [HTML contenteditable](https://h.daily-dev-tips.com/did-you-know-html-elements-can-be-editable)
 - [x] [A few HTML tips](https://hacks.mozilla.org/2016/08/a-few-html-tips/)
 - [x] [Read Six tips to set up a better HTML document](https://hackernoon.com/six-tips-to-set-up-a-better-html-document-ud1033z3z)
+- [x] [Read HTML Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
+- [x] [SEMANTIC HTML FOR MEANINGFUL WEBPAGES](https://seekbrevity.com/semantic-markup-important-web-design/#main-navigation)
 
 ## JS
 - [x] [Check if something is an Array or not](https://github.com/AbdallahHemdan/TIL/blob/master/JS/Check%20if%20something%20is%20an%20Array%20or%20not.md)
