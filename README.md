@@ -88,6 +88,7 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 - [x] [Read Six tips to set up a better HTML document](https://hackernoon.com/six-tips-to-set-up-a-better-html-document-ud1033z3z)
 - [x] [Read HTML Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
 - [x] [SEMANTIC HTML FOR MEANINGFUL WEBPAGES](https://seekbrevity.com/semantic-markup-important-web-design/#main-navigation)
+- [x] [Read HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
 ## JS
 - [x] [Check if something is an Array or not](https://github.com/AbdallahHemdan/TIL/blob/master/JS/Check%20if%20something%20is%20an%20Array%20or%20not.md)
