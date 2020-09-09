@@ -90,6 +90,8 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 - [x] [SEMANTIC HTML FOR MEANINGFUL WEBPAGES](https://seekbrevity.com/semantic-markup-important-web-design/#main-navigation)
 - [x] [Read HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 - [x] [HTML Style Guide and Coding Conventions](https://github.com/AbdallahHemdan/TIL/blob/master/HTML/11.%20HTML%20Style%20Guide%20and%20Coding%20Conventions.md)
+- [x] [HTML guidelines](https://developer.mozilla.org/en-US/docs/MDN/Contribute/Guidelines/Code_guidelines/HTML)
+
 
 ## JS
 - [x] [Check if something is an Array or not](https://github.com/AbdallahHemdan/TIL/blob/master/JS/Check%20if%20something%20is%20an%20Array%20or%20not.md)
