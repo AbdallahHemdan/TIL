@@ -113,6 +113,7 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 - [x] [Array.filter()](https://github.com/AbdallahHemdan/TIL/blob/master/JS/18.%20Array.filter().md)
 - [x] [Array.reduce()](https://github.com/AbdallahHemdan/TIL/blob/master/JS/19.%20Array.reduce().md)
 - [x] [Array.find() and Array.findIndex()](https://github.com/AbdallahHemdan/TIL/blob/master/JS/20.%20Array.find()%20and%20Array.findIndex().md)
+- [x] [String.prototype.repeat()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/repeat)
 
 ## CSS
 - [x] [What is CSS selector specificity and how does it work?](https://github.com/AbdallahHemdan/TIL/blob/master/CSS/1.%20What%20is%20CSS%20selector%20specificity%20and%20how%20does%20it%20work%3F.md)
