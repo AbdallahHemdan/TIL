@@ -1,0 +1,13 @@
+.rect {
+  --size: 100px;
+  --aspect-ration: 2;
+  width: var(--size);
+  height: calc(var(--size) / var(--aspect-ration));
+  background-color: #ccc;
+}
+
+.rect--perfect-square {
+  --aspect-ration: 1;
+  margin-top: 1rem;
+  background-color: #f00;
+}
