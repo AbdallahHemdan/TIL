@@ -134,6 +134,7 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 - [x] [How to style all elements except first/last](https://stackoverflow.com/questions/10033299/is-there-any-way-to-specify-a-css-shorthand-for-all-elements-except-the-first-l)
 - [x] [How to remove the arrow in dropdown in Bootstrap 4?](https://stackoverflow.com/questions/38576503/how-to-remove-the-arrow-in-dropdown-in-bootstrap-4)
 - [x] [How to hide scroll bar if not needed](https://stackoverflow.com/questions/18716863/css-hide-scroll-bar-if-not-needed)
+- [x] [Proportional Resizing with CSS Variables](https://github.com/AbdallahHemdan/TIL/tree/master/CSS/Proportional%20Resizing%20with%20CSS%20Variables)
 
 ## CSS Methodologies
 - [x] [BEM-Block, Element and Modifier](https://github.com/AbdallahHemdan/TIL/tree/master/CSS%20Methodologies/BEM)
