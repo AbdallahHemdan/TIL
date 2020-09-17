@@ -9,7 +9,7 @@ Answers to [Front-end Job Interview Questions - HTML Questions](https://github.c
 - ~[What does a doctype do?](#what-does-a-doctype-do)~
 - ~[How do you serve a page with content in multiple languages?](#how-do-you-serve-a-page-with-content-in-multiple-languages)~
 - ~[What kind of things must you be wary of when designing or developing for multilingual sites?](#what-kind-of-things-must-you-be-wary-of-when-designing-or-developing-for-multilingual-sites)~
-- [What are `data-` attributes good for?](#what-are-data--attributes-good-for)
+- ~[What are `data-` attributes good for?](#what-are-data--attributes-good-for)~
 - [Consider HTML5 as an open web platform. What are the building blocks of HTML5?](#consider-html5-as-an-open-web-platform-what-are-the-building-blocks-of-html5)
 - [Describe the difference between a `cookie`, `sessionStorage` and `localStorage`.](#describe-the-difference-between-a-cookie-sessionstorage-and-localstorage)
 - [Describe the difference between `<script>`, `<script async>` and `<script defer>`.](#describe-the-difference-between-script-script-async-and-script-defer)
@@ -51,6 +51,7 @@ In the back end, the HTML markup will contain `i18n` placeholders and content fo
 - https://www.w3.org/International/getting-started/language
 - https://support.google.com/webmasters/answer/189077
 
+[[↑] Back to top](#table-of-contents)
 
 ### What kind of things must you be wary of when designing or developing for multilingual sites?
 
@@ -66,3 +67,20 @@ In the back end, the HTML markup will contain `i18n` placeholders and content fo
 ###### References
 
 - https://www.quora.com/What-kind-of-things-one-should-be-wary-of-when-designing-or-developing-for-multilingual-sites
+
+[[↑] Back to top](#table-of-contents)
+
+### What are `data-` attributes good for?
+
+Before JavaScript frameworks became popular, front end developers used `data-` attributes to store extra data within the DOM itself, without other hacks such as non-standard attributes, extra properties on the DOM. It is intended to store custom data private to the page or application, for which there are no more appropriate attributes or elements.
+
+These days, using `data-` attributes is generally not encouraged. One reason is that users can modify the data attribute easily by using inspect element in the browser. The data model is better stored within JavaScript itself and stay updated with the DOM via data binding possibly through a library or a framework.
+
+However, one perfectly valid use of data attributes, is to add a hook for _end to end_ testing frameworks such as Selenium and Capybara without having to create a meaningless classes or ID attributes. The element needs a way to be found by a particular Selenium spec and something like `data-selector='the-thing'` is a valid way to do so without convoluting the semantic markup otherwise.
+
+###### References
+
+- http://html5doctor.com/html5-custom-data-attributes/
+- https://www.w3.org/TR/html5/dom.html#embedding-custom-non-visible-data-with-the-data-*-attributes
+
+[[↑] Back to top](#table-of-contents)
