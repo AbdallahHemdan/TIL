@@ -187,6 +187,7 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 - [x] [Writing good commit messages](https://github.com/erlang/otp/wiki/writing-good-commit-messages)
 - [x] [Git commands](https://github.com/AbdallahHemdan/TIL/blob/master/GIT/Git__Commands.md)
 - [x] [Git commit emojis](https://github.com/AbdallahHemdan/TIL/blob/master/GIT/GIT__Commit__Emojis.md)
+- [x] [Git rebase](https://github.com/AbdallahHemdan/TIL/tree/master/GIT/Git%20rebase)
 
 ## BASH
 - [x] [ls -a & ls -la](https://github.com/AbdallahHemdan/TIL/blob/master/BASH/1.%20ls%20-a%20&%20ls%20-la.md)
