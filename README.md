@@ -99,7 +99,7 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 - [x] [Create an array conataining elements from 1 to n](https://github.com/AbdallahHemdan/TIL/blob/master/JS/Creating%20an%20array%20containing%20elements%20from%201%20to%20n.md)
 - [x] [JavaScript Quickie— Dot Notation vs. Bracket Notation](https://codeburst.io/javascript-quickie-dot-notation-vs-bracket-notation-333641c0f781)
 - [x] [=== vs == in js](https://github.com/AbdallahHemdan/TIL/blob/master/JS/4.%20%3D%3D%3D%20vs%20%3D%3D%20in%20js.md)
-- [[x] what is the difference between undeclared and undefinded](https://github.com/AbdallahHemdan/TIL/blob/master/JS/5.%20what%20is%20the%20difference%20between%20undeclared%20and%20undefinded%20in%20js.md)
+- [x] [what is the difference between undeclared and undefinded](https://github.com/AbdallahHemdan/TIL/blob/master/JS/5.%20what%20is%20the%20difference%20between%20undeclared%20and%20undefinded%20in%20js.md)
 - [x] [What is IIFE.](https://github.com/AbdallahHemdan/TIL/blob/master/JS/6.%20What%20is%20IIFE.md)
 - [x] [Explain event delegation](https://github.com/AbdallahHemdan/TIL/blob/master/JS/7.%20Explain%20event%20delegation.md)
 - [x] [Explain how this works in JavaScript](https://github.com/AbdallahHemdan/TIL/blob/master/JS/8.%20Explain%20how%20this%20works%20in%20JavaScript.md)
@@ -135,6 +135,7 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 - [x] [How to remove the arrow in dropdown in Bootstrap 4?](https://stackoverflow.com/questions/38576503/how-to-remove-the-arrow-in-dropdown-in-bootstrap-4)
 - [x] [How to hide scroll bar if not needed](https://stackoverflow.com/questions/18716863/css-hide-scroll-bar-if-not-needed)
 - [x] [Proportional Resizing with CSS Variables](https://github.com/AbdallahHemdan/TIL/tree/master/CSS/Proportional%20Resizing%20with%20CSS%20Variables)
+- [x] [repeat()](https://developer.mozilla.org/en-US/docs/Web/CSS/repeat)
 
 ## CSS Methodologies
 - [x] [BEM-Block, Element and Modifier](https://github.com/AbdallahHemdan/TIL/tree/master/CSS%20Methodologies/BEM)
