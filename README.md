@@ -136,6 +136,7 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 - [x] [How to hide scroll bar if not needed](https://stackoverflow.com/questions/18716863/css-hide-scroll-bar-if-not-needed)
 - [x] [Proportional Resizing with CSS Variables](https://github.com/AbdallahHemdan/TIL/tree/master/CSS/Proportional%20Resizing%20with%20CSS%20Variables)
 - [x] [repeat()](https://developer.mozilla.org/en-US/docs/Web/CSS/repeat)
+- [x] [minmax()](https://developer.mozilla.org/en-US/docs/Web/CSS/minmax)
 
 ## CSS Methodologies
 - [x] [BEM-Block, Element and Modifier](https://github.com/AbdallahHemdan/TIL/tree/master/CSS%20Methodologies/BEM)
