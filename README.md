@@ -65,6 +65,7 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 - [x] [Fix nginx error of using port 80](https://www.programmersought.com/article/2151484094/)
 - [x] [What is Webhook](https://github.com/AbdallahHemdan/TIL/blob/master/General/4.%20What%20is%20Webhook.md)
 - [x] [The engine “node” is incompatible with this module](https://stackoverflow.com/a/57748163/9980667)
+- [x] [Console object all in one](https://github.com/AbdallahHemdan/TIL/tree/master/General/console)
 
 ## HTML
 - [x] [What does DOCTYPE in HTML do](https://github.com/AbdallahHemdan/TIL/blob/master/HTML/1.%20What%20does%20DOCTYPE%20in%20HTML%20do.md)
