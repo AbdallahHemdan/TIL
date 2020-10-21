@@ -254,7 +254,7 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 - [ ] [How to revert last commit git]()
 - [ ] [What is cherry-pick in git]()
 - [ ] [What is stash in git]()
-
+- [ ] [The cost of moving from Google Fonts to self-hosted web fonts](https://jeremenichelli.io/2020/07/google-fonts-self-host-web-fonts/)
   
 
 ## Contributing
