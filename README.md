@@ -32,6 +32,7 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 - [HTML](#html)
 - [JS](#js)
 - [Chrome](#chrome)
+- [CPP](#cpp)
 - [React](#react)
 - [Vue](#vue)
 - [Vuex](#vuex)
@@ -149,6 +150,9 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 - [x] [How do I left or right align text in Google Chrome 6 address bar](https://github.com/AbdallahHemdan/TIL/blob/master/Chrome/How%20do%20I%20left%20or%20right%20align%20text%20in%20Google%20Chrome%206%20address%20bar.md)
 - [x] [copy data stored as global variables dev tools](https://scottwhittaker.net/chrome-devtools/2016/02/29/chrome-devtools-copy-object.html)
 
+## CPP
+- [x] [argc and argv](https://www.geeksforgeeks.org/command-line-arguments-in-c-cpp/)
+
 ## Performance
 - [x] [Page Load Time](https://github.com/AbdallahHemdan/TIL/blob/master/Performance/1.%20Page%20Load%20Time.md) 
 
@@ -238,7 +242,7 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 
 ## TODO
 - [ ] [HTTP response status codes]()
-- [ ] [argc and argv]()
+- [x] [argc and argv]()
 - [ ] [how to enter argc and argv in Visual Studio]()
 - [ ] [Prototypal pattern](https://frontendmasters.com/courses/getting-started-javascript-v2/prototypes/)
 - [ ] [Describe the difference between <script>, <script async> and <script defer>.]()
