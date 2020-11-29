@@ -152,6 +152,7 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 
 ## CPP
 - [x] [argc and argv](https://www.geeksforgeeks.org/command-line-arguments-in-c-cpp/)
+- [x] [remove consecutive duplication of elements](https://github.com/AbdallahHemdan/TIL/blob/master/CPP/remove%20consecutive%20duplication%20of%20elements.cpp)
 
 ## Performance
 - [x] [Page Load Time](https://github.com/AbdallahHemdan/TIL/blob/master/Performance/1.%20Page%20Load%20Time.md) 
