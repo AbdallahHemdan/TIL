@@ -96,6 +96,7 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 - [x] [HTML Style Guide and Coding Conventions](https://github.com/AbdallahHemdan/TIL/blob/master/HTML/11.%20HTML%20Style%20Guide%20and%20Coding%20Conventions.md)
 - [x] [HTML guidelines](https://developer.mozilla.org/en-US/docs/MDN/Contribute/Guidelines/Code_guidelines/HTML)
 - [x] [HTML vs. XHTML](https://github.com/AbdallahHemdan/TIL/blob/master/HTML/12.%20HTML%20vs.%20XHTML.md)
+- [x] [Usage of aria-label](https://www.aditus.io/aria/aria-label/#:~:text=Over%2Dusing%20it-,Definition,content%20as%20the%20accessibility%20label.)
 
 ## JS
 - [x] [Check if something is an Array or not](https://github.com/AbdallahHemdan/TIL/blob/master/JS/Check%20if%20something%20is%20an%20Array%20or%20not.md)
