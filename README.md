@@ -26,7 +26,7 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 
 ## Categories
 
-- [Table of Contents](#table-of-contents)
+- [Table of Contents](#categories)
 - [About The Project](#about-the-project)
 - [General](#general)
 - [HTML](#html)
@@ -39,6 +39,7 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 - [Angular](#angular)
 - [AngularJS](#angularjs)
 - [Windows](#windows)
+- [Linux](#linux)
 - [Internet](#internet)
 - [CSS](#css)
 - [CSS Methodologies](#css-methodologies)
@@ -209,6 +210,10 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 ## Windows
 - [x] [How to use multiple desktops](https://github.com/AbdallahHemdan/TIL/blob/master/Windows/How%20to%20use%20multiple%20desktops.md) 
 - [x] [create new file using the command line in WindowsOS](https://github.com/AbdallahHemdan/TIL/blob/master/Windows/2.%20create%20new%20file%20in%20command%20line.md)
+
+
+## Linux
+- [x] [How to Kill a Desktop Application or Background Process on Linux](https://www.howtogeek.com/211153/how-to-kill-a-desktop-application-or-background-process-on-linux/#:~:text=Depending%20on%20your%20desktop%20environment,the%20quotes%2C%20and%20press%20Enter.) 
 
 ## Internet
 - [x] [The Request-Response life cycle](https://github.com/AbdallahHemdan/TIL/blob/master/Internet/Request-Response%20life%20cycle.md)
