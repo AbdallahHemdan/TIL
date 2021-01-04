@@ -210,6 +210,7 @@ TIL is a collection of concise write-ups on small things I learn day to day acro
 ## Windows
 - [x] [How to use multiple desktops](https://github.com/AbdallahHemdan/TIL/blob/master/Windows/How%20to%20use%20multiple%20desktops.md) 
 - [x] [create new file using the command line in WindowsOS](https://github.com/AbdallahHemdan/TIL/blob/master/Windows/2.%20create%20new%20file%20in%20command%20line.md)
+- [x] [How to Clear Command Prompt Screen Windows 10](https://www.minitool.com/news/clear-command-prompt.html)
 
 
 ## Linux
